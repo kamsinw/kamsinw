@@ -19,7 +19,7 @@
 ![C++](https://img.shields.io/badge/C++-blue)
 ![C](https://img.shields.io/badge/C-darkgrey)
 ![Python](https://img.shields.io/badge/Python-yellow)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Go](https://img.shields.io/badge/Golang-lightgrey)
 
 ### Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-black)
