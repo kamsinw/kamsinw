@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-💻 Interested in systems engineering, distributed systems, and performance optimization<br>⚙️ Focused on low-level programming, concurrency, and latency-sensitive systems<br>📚 Currently learning about parallel LLM inference, CUDA kernels, and memory management for high-performance systems<br>🎯 Goal: Build high-performance backend / infrastructure systems<br>📈 What I'm Working On<br>Building a paged KV cache + CUDA attention kernel in llama.cpp to improve parallel LLM inference throughput
+💻 Interested in systems engineering, distributed systems, and performance optimization<br>⚙️ Focused on low-level programming, concurrency, and latency-sensitive systems<br>📚 Currently learning about parallel LLM inference, CUDA kernels, and memory management for high-performance systems<br>🎯 Goal: Build high-performance backend / infrastructure systems<br>📈 Last Project<br>Built a paged KV cache + CUDA attention kernel to improve parallel LLM inference throughput
 # Concepts 
 <br>Distributed Systems<br>Concurrency & Parallelism<br>Memory Management (heap/stack, pointers)<br>Networking Fundamentals<br>Embedded Software Fundmentals<br>RTL design<br><br><br>
 
