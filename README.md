@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamsi Nwabueze</h1>
 <p align="center">
-  Sophomore at University of Southern Califonia studying Computer Engineering and Computer Science
+  Junior at University of Southern Califonia studying Computer Engineering and Computer Science
 </p>
 
 ---
